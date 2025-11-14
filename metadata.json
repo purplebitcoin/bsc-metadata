@@ -1,0 +1,8 @@
+{
+  "name": "Purple Bitcoin",
+  "symbol": "PBTC",
+  "decimals": 9,
+  "description": "The deflationary token powering the Purple Bitcoin ecosystem — travel, rewards, and cross-chain utility.",
+  "image": "https://raw.githubusercontent.com/purplebitcoin/bsc-metadata/pbtc.png",
+  "external_url": "https://purplebitcoin.com
+}
